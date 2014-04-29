@@ -1,4 +1,4 @@
 #Example
 ==============
 
-![]https://github.com/blehman/GoogleVis/blob/master/static.png(?raw=true)
+![]https://github.com/blehman/GoogleVis/raw/master/static.png(?raw=true)
